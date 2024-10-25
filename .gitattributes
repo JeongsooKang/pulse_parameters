@@ -1,0 +1,10 @@
+Three-transmon[[:space:]]system/CNOT01_test_202305071549.mat filter=lfs diff=lfs merge=lfs -text
+Three-transmon[[:space:]]system/CNOT02_test_202307031602.mat filter=lfs diff=lfs merge=lfs -text
+Three-transmon[[:space:]]system/CNOT10_test_202306121651.mat filter=lfs diff=lfs merge=lfs -text
+Three-transmon[[:space:]]system/CNOT12_test_202403071654.mat filter=lfs diff=lfs merge=lfs -text
+Three-transmon[[:space:]]system/CNOT20_test_202305181610.mat filter=lfs diff=lfs merge=lfs -text
+Three-transmon[[:space:]]system/CNOT21_test_202403251510.mat filter=lfs diff=lfs merge=lfs -text
+Two-transmon[[:space:]]system_asymmetric[[:space:]]CR/AsymCR_CNOT01_test_202307041504.mat filter=lfs diff=lfs merge=lfs -text
+Two-transmon[[:space:]]system_asymmetric[[:space:]]CR/AsymCR_CNOT10_test_202307041448.mat filter=lfs diff=lfs merge=lfs -text
+Two-transmon[[:space:]]system_symmetric[[:space:]]CR/CR2_CNOT01_test_202307031952.mat filter=lfs diff=lfs merge=lfs -text
+Two-transmon[[:space:]]system_symmetric[[:space:]]CR/CR2_CNOT10_test_202307032111.mat filter=lfs diff=lfs merge=lfs -text
